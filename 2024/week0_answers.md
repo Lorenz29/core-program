@@ -15,3 +15,11 @@ ZK: The verifier learns nothing about the statement besides the fact it's true.
 While in interactive proofs we need a back a forth communication between the prover and the verifier, in non-interactive proofs the verifier can convince itself about the validity of the statement.
 
 :::
+
+:::info
+**🤔 Consider the following:**
+1. Which example did you find most enlightening, and why?
+2. How do these examples demonstrate the principles of zero-knowledge proofs?
+3. Can you think of any potential applications of these concepts in everyday life?
+4. Can you explain these thought experiments to someone non-technical? Try it with a friend or family member!
+:::
