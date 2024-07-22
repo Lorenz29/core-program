@@ -155,6 +155,9 @@ It is the element of the set that can generate all the other elements of the set
 Yes, the generators will be all elements in the set such that gcd(x,12)=1.
 
 gcd(1,12) = 1, then 1 is generator
+
 gcd(5,12) = 1, then 5 is generator
+
 gcd(7,12) = 1, then 7 is generator 
+
 gcd(11,12) = 1, then 11 is generator
