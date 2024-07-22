@@ -27,5 +27,5 @@ fn main(){
     println!("{}",modularCalculator('-', 10, 15, 12)); // Should return: 7
     println!("{}",modularCalculator('*', 10, 15, 12)); // Should return: 6
     
-    //println!("{}",modularCalculator('*', 199, 153, 12)); // Should return: 1
+    //println!("{}",modularCalculator('*', 199, 153, 12));
 }
