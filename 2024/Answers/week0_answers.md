@@ -19,7 +19,16 @@ While in interactive proofs we need a back a forth communication between the pro
 :::info
 **🤔 Consider the following:**
 1. Which example did you find most enlightening, and why?
+
+Sudoku. Because is a real world example of the applied concept of ZK.
+
 2. How do these examples demonstrate the principles of zero-knowledge proofs?
+
+Waldo: The verifier can see Waldo but not to where he is. That's means the prover statement is valid and the verifier learns nothing about the location.
+
 3. Can you think of any potential applications of these concepts in everyday life?
+
+
+
 4. Can you explain these thought experiments to someone non-technical? Try it with a friend or family member!
 :::
