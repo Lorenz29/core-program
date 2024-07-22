@@ -89,4 +89,49 @@ Elements or sets of elements within the group that can generate all other elemen
 
   - What are finite fields?
 
-  Also called a Galois field, finite field is a field that contains a finite number of elements.
+Also called a Galois field, finite field is a field that contains a finite number of elements.
+
+  :::info
+
+
+## 💪 Exercises
+
+Here are the exercises for this module. Collaborate with others to find the answers, and remember to support each other!
+
+### Comprehension
+
+Summarize each of the following concepts in a few sentences:
+
+1. Three-Colouring Graph problem with Hats
+
+We can use ZK to prove the solution of a "Three-Colouring" Graph by interactive proofs where the verifier challenges us repeatedly until is fully convinced that we know the solution. The more challenges, less is the chance to fool the verifier when the prover is not honest.
+
+2.  Ali Baba’s Cave analogy
+
+Same. Interactive proofs with probabilistic component until the verifier is convinced.
+
+3.   The difference between interactive and non-interactive proofs
+
+In interactive proofs both prover and verifier needs to be online and talking each other to go back and forth with challenge and answer system. In non-interactive it is not necessary to online at the same time. The verifier don't need to challenge the prover to be convinced.
+
+### Modular Arithmetic
+
+Solve the following problems and gain a practical understanding of modular arithmetic:
+
+1. $7\ mod\ 13$
+
+
+
+2. $15\ mod\ 13$
+3. $(7+15)\ mod\ 13$
+4. $(7\ mod\ 13 + 15\ mod\ 13)\ mod\ 13$
+
+If the results of the third and fourth calculations match, they follow a "group structure". Can you determine if these do?
+
+### Generators
+
+Consider the cyclic group $(Z_{12}, +\ mod\ 12)$, commonly referred to as the "additive group of integers modulo 12". Address the following points:
+
+1. What does the term 'generator' mean?
+2. Can you find a generator for this group?
+3. Are there other generators for this group? If yes, what are they?
