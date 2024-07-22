@@ -48,11 +48,9 @@ Continuous ZK face recognition to proof identity. When an ID is stolen, this wil
 ## Topics to Research
 
 - Fundamentals:
-  - Prime Numbers and Composite Numbers
-Numbers thatn only have 2 factors, 1 and itself.
+  - Prime Numbers and Composite Numbers: Numbers than only have 2 factors, 1 and itself.
 
-  - Greatest Common Divisors (GCD)
-The greatest common factor number that divides two or more numbers.
+  - Greatest Common Divisors (GCD): The greatest common factor number that divides two or more numbers.
 
 - Modular Arithmetic and Congruence
   - What is modular arithmetic?
