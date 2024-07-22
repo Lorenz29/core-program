@@ -120,18 +120,41 @@ Solve the following problems and gain a practical understanding of modular arith
 
 1. $7\ mod\ 13$
 
-
+= 7
 
 2. $15\ mod\ 13$
+
+= 2
+
 3. $(7+15)\ mod\ 13$
+
+= 9
+
 4. $(7\ mod\ 13 + 15\ mod\ 13)\ mod\ 13$
 
+= 9
+
 If the results of the third and fourth calculations match, they follow a "group structure". Can you determine if these do?
+
+
 
 ### Generators
 
 Consider the cyclic group $(Z_{12}, +\ mod\ 12)$, commonly referred to as the "additive group of integers modulo 12". Address the following points:
 
 1. What does the term 'generator' mean?
+
+It is the element of the set that can generate all the other elements of the set by applying the operation of the group repeatedly to itself.
+
 2. Can you find a generator for this group?
+
+1 is a generator of this group.
+
 3. Are there other generators for this group? If yes, what are they?
+
+Yes, the generators will be all elements in the set such that gcd(x,12)=1.
+
+gcd(1,12) = 1, then 1 is generator
+gcd(5,12) = 1, then 5 is generator
+gcd(7,12) = 1, then 7 is generator 
+gcd(11,12) = 1, then 11 is generator
