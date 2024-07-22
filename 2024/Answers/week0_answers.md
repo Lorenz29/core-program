@@ -20,7 +20,7 @@ While in interactive proofs we need a back a forth communication between the pro
 **🤔 Consider the following:**
 1. Which example did you find most enlightening, and why?
 
-Sudoku. Because is a real world example of the applied concept of ZK.
+Sudoku. Because is a real world example of the applied concepts of ZK.
 
 2. How do these examples demonstrate the principles of zero-knowledge proofs?
 
@@ -28,7 +28,42 @@ Waldo: The verifier can see Waldo but not to where he is. That's means the prove
 
 3. Can you think of any potential applications of these concepts in everyday life?
 
-
+Authentication. We log-in to many online applications everyday which ask you for personal details.
 
 4. Can you explain these thought experiments to someone non-technical? Try it with a friend or family member!
 :::
+
+:::info
+**🤔 Consider the following:**
+1. Which application of ZKP do you find most intriguing, and why?
+
+MACI: Wonder how and when this mechanism can be applied to off-chain votings
+
+2. Can you imagine any other potential applications of ZKP?
+
+Continuous ZK face recognition to proof identity. When an ID is stolen, this will prove that the actual user is the same as the ID claims.
+
+:::
+
+## Topics to Research
+
+- Fundamentals:
+  - Prime Numbers and Composite Numbers
+Numbers thatn only have 2 factors, 1 and itself.
+
+  - Greatest Common Divisors (GCD)
+The greatest common factor number that divides two or more numbers.
+
+- Modular Arithmetic and Congruence
+  - What is modular arithmetic?
+  - Exploring congruence classes
+
+- Group Theory
+  - What is a group structure?
+  - What is a group operation?
+
+- Diving Deeper:
+  - What is a finite group?
+  - What is a cyclic group?
+  - What is a generator?
+  - What are finite fields?
